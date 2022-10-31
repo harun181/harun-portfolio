@@ -3,6 +3,7 @@
 ## About The Project
 
 This is the official portfolio website of me where you can know about me and my projects.
+[Preview](https://harun181.netlify.app/)
 
 ### Built With
 
