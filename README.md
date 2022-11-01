@@ -49,7 +49,7 @@ This is the official portfolio website of me where you can know about me and my 
 ### :camera: Screenshots
 
 <div align="center">
-  <img src="https://github.com/harun181/harun-portfolio/blob/main/assets/img/cover.png?raw=true" alt="screenshot" />
+  <img src="https://github.com/harun181/harun-portfolio/blob/main/img/cover.png?raw=true" alt="screenshot" />
 </div>
 
 <!-- TechStack -->
