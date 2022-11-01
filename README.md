@@ -24,7 +24,7 @@
 </p>
 
 <h4>
-    <a href="https://harun181.github.io/weblitical/html/index.html">View Demo</a>
+    <a href="https://harun181.netlify.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/harun181/harun-portfolio/tree/v.1.0.0">Documentation</a>
   <span> · </span>
